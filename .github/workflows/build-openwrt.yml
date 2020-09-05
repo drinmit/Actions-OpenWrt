@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt for Netgear WNDR3400
+name: Build OpenWrt for Netgear WNDR3800
 
 on:
   repository_dispatch:
